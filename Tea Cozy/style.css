@@ -1,0 +1,71 @@
+.html{
+  font-family: Helvetica;
+  font-size: 22px;
+  color: sheashell;
+  backround-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+
+.header{
+  position: fixed;
+  height: 69px;
+  padding-left: 10px;
+  border-bottom: 1px solid seashell;
+  z-index: 1;
+}
+
+.links{
+  text-decoration: underline;
+}
+
+.1st line{
+  display: inline-block;
+  text-align: right;
+}
+
+.our mission{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  height: 700px;
+  width: 1200 px;
+  text-align: scenter;
+}
+
+.tea img 1{
+  text-align: center;
+}
+
+.tea{
+  height: 200px;
+  width: 300px;
+}
+
+.tea img 2{
+  text-align: center;
+}
+
+.img id{
+  text-align: center;
+}
+
+
+tea img 2{
+  text-align: center;
+}
+
+.container{
+  height: 500px;
+  width: 1200px
+  background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+}
+
+.box{
+  height: 300px;
+  width: 300px;
+  padding: 40px;
+}
+
+.the tea cozy{
+  text-align: center;
+}
